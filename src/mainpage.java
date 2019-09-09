@@ -61,7 +61,7 @@ register_class regf = new register_class();
             }
         });
 
-        pass.setBackground(new java.awt.Color(102, 102, 102));
+        pass.setBackground(new java.awt.Color(51, 51, 51));
         pass.setFont(new java.awt.Font("Arial Black", 1, 18)); // NOI18N
         pass.setForeground(new java.awt.Color(255, 255, 255));
         pass.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.LOWERED));
@@ -70,7 +70,7 @@ register_class regf = new register_class();
         jLabel2.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel2.setText("PASSWORD");
 
-        user.setBackground(new java.awt.Color(102, 102, 102));
+        user.setBackground(new java.awt.Color(51, 51, 51));
         user.setFont(new java.awt.Font("Arial Black", 1, 12)); // NOI18N
         user.setForeground(new java.awt.Color(255, 255, 255));
         user.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.LOWERED));

@@ -143,7 +143,7 @@ public void insert(){
 
         indi.setFont(new java.awt.Font("Arial", 0, 14)); // NOI18N
 
-        cpsw.setBackground(new java.awt.Color(102, 102, 102));
+        cpsw.setBackground(new java.awt.Color(51, 51, 51));
         cpsw.setFont(new java.awt.Font("Arial Black", 1, 14)); // NOI18N
         cpsw.setForeground(new java.awt.Color(255, 255, 255));
         cpsw.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.LOWERED));
@@ -153,7 +153,7 @@ public void insert(){
             }
         });
 
-        psw.setBackground(new java.awt.Color(102, 102, 102));
+        psw.setBackground(new java.awt.Color(51, 51, 51));
         psw.setFont(new java.awt.Font("Arial Black", 1, 14)); // NOI18N
         psw.setForeground(new java.awt.Color(255, 255, 255));
         psw.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.LOWERED));
@@ -163,7 +163,7 @@ public void insert(){
             }
         });
 
-        usr.setBackground(new java.awt.Color(102, 102, 102));
+        usr.setBackground(new java.awt.Color(51, 51, 51));
         usr.setFont(new java.awt.Font("Arial Black", 1, 14)); // NOI18N
         usr.setForeground(new java.awt.Color(255, 255, 255));
         usr.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.LOWERED));
@@ -173,7 +173,7 @@ public void insert(){
             }
         });
 
-        lnm.setBackground(new java.awt.Color(102, 102, 102));
+        lnm.setBackground(new java.awt.Color(51, 51, 51));
         lnm.setFont(new java.awt.Font("Arial Black", 1, 14)); // NOI18N
         lnm.setForeground(new java.awt.Color(255, 255, 255));
         lnm.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.LOWERED));
@@ -183,7 +183,7 @@ public void insert(){
             }
         });
 
-        fnm.setBackground(new java.awt.Color(102, 102, 102));
+        fnm.setBackground(new java.awt.Color(51, 51, 51));
         fnm.setFont(new java.awt.Font("Arial Black", 1, 14)); // NOI18N
         fnm.setForeground(new java.awt.Color(255, 255, 255));
         fnm.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.LOWERED));
